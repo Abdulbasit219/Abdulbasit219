@@ -40,6 +40,31 @@ Developed complete backend, authentication (JWT), admin dashboard, and farmer/bu
 
 ---
 
+### 🛒 E-Commerce Platform  
+Responsive e-commerce website with product browsing, category filters, and account management.  
+Includes an admin dashboard for product creation, category management, and order tracking.  
+
+**🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
+**🔗 Live Demo:** [https://ecommerce-mern-stack-project.netlify.app/] 
+
+---
+
+### 🧑‍💼 Employee Management System  
+System for creating, updating, and deleting employee records with pagination for smooth data navigation.  
+
+**🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
+**🔗 Live Demo:** [https://empmngmntsystem.netlify.app/employee] 
+
+---
+
+### 🌐 Personal Portfolio  
+A personal portfolio website to showcase skills, projects, and contact details.  
+
+**🧩 Tech Stack:** HTML, CSS, JavaScript, Express.js  
+**🔗 Live Demo:** [https://abdulbasitt.netlify.app/] 
+
+---
+
 ## ⚡ GitHub Stats
 
 ![Abdul Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulbasit219&show_icons=true&theme=radical)
