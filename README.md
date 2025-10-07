@@ -45,7 +45,7 @@ Responsive e-commerce website with product browsing, category filters, and accou
 Includes an admin dashboard for product creation, category management, and order tracking.  
 
 **🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
-**🔗 Live Demo:** [https://ecommerce-mern-stack-project.netlify.app/] 
+**🔗 Live Demo:** https://ecommerce-mern-stack-project.netlify.app/
 
 ---
 
@@ -53,7 +53,7 @@ Includes an admin dashboard for product creation, category management, and order
 System for creating, updating, and deleting employee records with pagination for smooth data navigation.  
 
 **🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
-**🔗 Live Demo:** [https://empmngmntsystem.netlify.app/employee] 
+**🔗 Live Demo:** https://empmngmntsystem.netlify.app/employee 
 
 ---
 
@@ -61,7 +61,7 @@ System for creating, updating, and deleting employee records with pagination for
 A personal portfolio website to showcase skills, projects, and contact details.  
 
 **🧩 Tech Stack:** HTML, CSS, JavaScript, Express.js  
-**🔗 Live Demo:** [https://abdulbasitt.netlify.app/] 
+**🔗 Live Demo:** https://abdulbasitt.netlify.app/ 
 
 ---
 
