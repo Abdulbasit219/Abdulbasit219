@@ -25,8 +25,33 @@ I focus on clean code, efficient design, and delivering digital products that tr
 ## 🌱 Currently Exploring
 🚀 Next.js & TypeScript  
 🐍 Python for backend scripting & automation  
-🧩 Building reusable components & scalable APIs
 
 ---
-- ⚡ Fun fact: ...
--->
+
+## 🧠 Featured Projects
+
+### 🌾 SabzLink – MERN Stack Web Application  
+A platform connecting **farmers and buyers** directly, eliminating middlemen.  
+Developed complete backend, authentication (JWT), admin dashboard, and farmer/buyer modules.  
+
+**✨ Features:** Product management, order handling, user profiles, and an admin panel.  
+**🧩 Tech Stack:** MERN, Redux Toolkit, RTK Query, Tailwind CSS, Cloudinary  
+**🔗 Live Demo:** https://farmers-sol-3.onrender.com/ 
+
+---
+
+## ⚡ GitHub Stats
+
+![Abdul Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulbasit219&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbasit219&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/abdul-basit2259/)  
+📧 [Email](mailto:abdulbasit07677@gmail.com)
+
+---
+
+⭐ _"Code with purpose. Build with passion."_  
