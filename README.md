@@ -27,7 +27,7 @@ I focus on clean code, efficient design, and delivering digital products that tr
 ## 💼 Experience
 
 ### 🏢 Turingoid LLC — Full Stack Developer Intern
-**Dec 2024 – Jun 2025**  
+**Mar 2026 – Jun 2026**  
 Worked on real client projects — primarily frontend development using **React.js** and **Capacitor** (cross-platform mobile apps), with contributions to **auth system design** and **database architecture** using MySQL.
 
 - Built and maintained frontend features with React.js + Capacitor for mobile deployment  
