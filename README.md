@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm < Abdul Basit />
+### 💻 Full Stack Developer | Building Scalable & Impactful Web Apps
 
-### 💻 MERN Stack Developer | Passionate about Building Scalable & Impactful Web Apps
-
-I'm a **Full-Stack Web Developer** dedicated to transforming ideas into real-world solutions using the **MERN Stack**.  
+I'm a **Full-Stack Web Developer** dedicated to transforming ideas into real-world solutions.  
 I focus on clean code, efficient design, and delivering digital products that truly make a difference.
 
 ---
@@ -15,6 +14,9 @@ I focus on clean code, efficient design, and delivering digital products that tr
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Framework-Express.js-lightgrey?logo=express)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Mobile-Capacitor-119EFF?logo=capacitor&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloud-Cloudinary-blue?logo=cloudinary)
 ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
 ![VSCode](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code)
@@ -22,46 +24,56 @@ I focus on clean code, efficient design, and delivering digital products that tr
 
 ---
 
+## 💼 Experience
+
+### 🏢 Turingoid LLC — Full Stack Developer Intern
+**Dec 2024 – Jun 2025**  
+Worked on real client projects — primarily frontend development using **React.js** and **Capacitor** (cross-platform mobile apps), with contributions to **auth system design** and **database architecture** using MySQL.
+
+- Built and maintained frontend features with React.js + Capacitor for mobile deployment  
+- Implemented authentication flows (JWT-based access & refresh tokens)  
+- Contributed to database design and schema planning using MySQL  
+- Collaborated on REST API integration between frontend and Node.js backend
+
+---
+
 ## 🌱 Currently Exploring
-🚀 Next.js & TypeScript  
-🐍 Python for backend scripting & automation  
+
+🐘 PostgreSQL — deep diving into advanced queries & schema design  
+⚡ Next.js & TypeScript  
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🌾 SabzLink – MERN Stack Web Application  
+### 🌾 SabzLink – MERN Stack Web Application
 A platform connecting **farmers and buyers** directly, eliminating middlemen.  
 Developed complete backend, authentication (JWT), admin dashboard, and farmer/buyer modules.  
-
 **✨ Features:** Product management, order handling, user profiles, and an admin panel.  
 **🧩 Tech Stack:** MERN, Redux Toolkit, RTK Query, Tailwind CSS, Cloudinary  
-**🔗 Live Demo:** https://farmers-sol-3.onrender.com/ 
+**🔗 Live Demo:** https://farmers-sol-3.onrender.com/
 
 ---
 
-### 🛒 E-Commerce Platform  
+### 🛒 E-Commerce Platform
 Responsive e-commerce website with product browsing, category filters, and account management.  
 Includes an admin dashboard for product creation, category management, and order tracking.  
-
 **🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
 **🔗 Live Demo:** https://ecommerce-mern-stack-project.netlify.app/
 
 ---
 
-### 🧑‍💼 Employee Management System  
+### 🧑‍💼 Employee Management System
 System for creating, updating, and deleting employee records with pagination for smooth data navigation.  
-
 **🧩 Tech Stack:** MERN, Context API, Tailwind CSS  
-**🔗 Live Demo:** https://empmngmntsystem.netlify.app/employee 
+**🔗 Live Demo:** https://empmngmntsystem.netlify.app/employee
 
 ---
 
-### 🌐 Personal Portfolio  
+### 🌐 Personal Portfolio
 A personal portfolio website to showcase skills, projects, and contact details.  
-
 **🧩 Tech Stack:** HTML, CSS, JavaScript, Express.js  
-**🔗 Live Demo:** https://abdulbasitt.netlify.app/ 
+**🔗 Live Demo:** https://abdulbasitt.netlify.app/
 
 ---
 
@@ -72,6 +84,10 @@ A personal portfolio website to showcase skills, projects, and contact details.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdulbasit219&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Connect with Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/abdul-basit2259/)  
@@ -79,4 +95,4 @@ A personal portfolio website to showcase skills, projects, and contact details.
 
 ---
 
-⭐ _"Code with purpose. Build with passion."_  
+⭐ _"Code with purpose. Build with passion."_
